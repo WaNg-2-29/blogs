@@ -1,2 +1,2 @@
 # blogs
-to store my daily notes
+to store my daily notes 2024
